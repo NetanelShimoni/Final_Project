@@ -4,8 +4,7 @@ In our project we are dealing with a project in which the aerospace
 industry is integrated, the goal is to compress * executable files with the 
 help of algorithms that will be taught in the elective course "Data 
 Compression" by Professor Dana Shapira 
-## Executable file:
-is a file that contains data translated into the program by 
+**Executable file** is a file that contains data translated into the program by 
 the computer. Typically, the file includes a binary representation of 
 machine commands for a particular processor
 
